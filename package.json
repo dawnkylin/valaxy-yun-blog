@@ -15,6 +15,7 @@
   "dependencies": {
     "fuse.js": "^7.1.0",
     "valaxy": "0.22.13",
+    "valaxy-addon-waline": "^0.2.0",
     "valaxy-theme-yun": "0.22.13"
   },
   "devDependencies": {

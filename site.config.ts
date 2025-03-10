@@ -177,11 +177,9 @@ export default defineSiteConfig({
     }
   },
 
-  /**
-   * displayed posts length in every page
-   * @default 7
-   */
-  pageSize: 7,
+  encrypt:{
+    enable: true
+  },
 
   /**
    * image preview by medium-zoom
