@@ -14,6 +14,10 @@ export default defineValaxyConfig<UserThemeConfig>({
 
   theme: 'yun',
 
+  vite: {
+    base: '/valaxy-yun-blog/'
+  },
+
   themeConfig: {
     banner: {
       enable: true,
