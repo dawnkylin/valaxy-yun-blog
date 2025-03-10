@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dawnkylin's blog",
+    "home_page_url": "https://dawnkylin.github.io/valaxy-yun-blog/",
+    "feed_url": "https://dawnkylin.github.io/valaxy-yun-blog/feed.json",
+    "description": "学习笔记与生活记录",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "dawnkylin",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>::: zh-CN<br>\n下一代静态博客框架。<br>\n:::</p>\n<p>::: en<br>\nNext Generation Static Blog Framework.<br>\n:::</p>\n<p>::: zh-CN</p>\n<br/><p>访问 <a href=\"https://dawnkylin.github.io/valaxy-yun-blog/posts/hello-valaxy\" target=\"_blank\">https://dawnkylin.github.io/valaxy-yun-blog/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://dawnkylin.github.io/valaxy-yun-blog/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2025-03-10T00:00:00.000Z",
+            "author": {
+                "name": "dawnkylin",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

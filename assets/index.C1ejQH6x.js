@@ -1,0 +1,1 @@
+import"./chunks/@vueuse/motion.C45uGSPR.js";import{C as s}from"./app.BgDrKfv1.js";import"./chunks/dayjs.CCYrSalk.js";import"./animation.C_ru2laA.js";const a="/valaxy-yun-blog/assets/none.DLM1AMsD.jpg";function p(t,o=a){const r=t.target;r.setAttribute("data-src",r.src),r.src=o}function c(t){return s(t,{template:"YYYY-MM-DD HH:mm:ss"})}export{c as f,p as o};
