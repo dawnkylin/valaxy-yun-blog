@@ -7,6 +7,7 @@ tags:
   - valaxy
   - 笔记
 top: 1
+aplayer: true
 ---
 
 ## Valaxy
@@ -18,3 +19,12 @@ Write your first post!
 ## Usage
 
 Modify `valaxy.config.ts` to custom your blog.
+
+## 音乐播放器
+
+<meting-js
+ id="1467444619"
+ server="netease"
+ type="song"
+ theme="#C20C0C">
+</meting-js>

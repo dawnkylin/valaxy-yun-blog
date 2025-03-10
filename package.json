@@ -9,9 +9,11 @@
     "build:ssg": "valaxy build --ssg",
     "dev": "valaxy",
     "rss": "valaxy rss",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "fuse": "valaxy fuse"
   },
   "dependencies": {
+    "fuse.js": "^7.1.0",
     "valaxy": "0.22.13",
     "valaxy-theme-yun": "0.22.13"
   },

@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      fuse.js:
+        specifier: ^7.1.0
+        version: 7.1.0
       valaxy:
         specifier: 0.22.13
         version: 0.22.13(@babel/parser@7.26.9)(@nuxt/kit@3.16.0)(@types/markdown-it@14.1.2)(@types/node@22.13.10)(@vue/compiler-dom@3.5.13)(axios@1.8.2)(eslint@9.22.0(jiti@2.4.2))(postcss@8.5.3)(rollup@4.35.0)(terser@5.39.0)(typescript@5.8.2)(unhead@1.11.20)(yaml@2.7.0)
